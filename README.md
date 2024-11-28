@@ -28,7 +28,7 @@
 📦 MongoDB, PostgreSQL  
 
 **Programming Languages**  
-💻 JavaScript, TypeScript (Beginner), Python  
+💻 JavaScript, TypeScript, Python  
 
 **Other Tools**  
 🔧 Git, GitHub, VS Code, Firebase, Cloudinary, Docker, GitHub Actions, Prisma, Mongoose  
