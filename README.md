@@ -41,7 +41,7 @@
 ## 🌐 Projects
 
 1. **[AAdmirals](https://aadmirals.com/):** Responsive booking platform for a private transportation company.  
-2. **[Popups.sg](https://popups.sg/):** Marketplace for popup stores, enabling seamless business management.  
+2. **[Popups.sg](https://test.popups.sg/):** Marketplace for popup stores, enabling seamless business management.  
 3. **[Pledge and Grow](https://pledgeandgrow.com/):** Platform promoting sustainability through social and environmental pledges.  
 4. **[VieSalon](https://www.viesalon.com/):** Modern salon website with booking functionality.  
 5. **[Keno Games Platform](https://inspiring-puffpuff-f7908f.netlify.app/):** Engaging Keno gaming platform with an intuitive design.
