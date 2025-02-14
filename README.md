@@ -7,7 +7,7 @@
 
 ## 📝 About Me
 
-🔹 Experienced web developer with **3.5+ years** of freelance expertise and **1.5 years** in remote full-stack development.  
+🔹 Experienced web developer with **4+ years** of freelance expertise and **1.5 years** in remote full-stack development.  
 🔹 Passionate about creating scalable, user-friendly applications to solve real-world problems.  
 🔹 Open to full-time opportunities where I can contribute to impactful projects.
 
