@@ -30,6 +30,10 @@
 **Programming Languages**  
 💻 JavaScript, TypeScript, Python  
 
+
+**Cloud Services***
+☁️ Firebase, Cloudinary, AWS (EC2, S3), Vercel, Netlify, Render
+
 **Other Tools**  
 🔧 Git, GitHub, VS Code, Firebase, Cloudinary, Docker, GitHub Actions, Prisma, Mongoose  
 
