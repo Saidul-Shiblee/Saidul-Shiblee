@@ -31,7 +31,7 @@
 💻 JavaScript, TypeScript, Python  
 
 
-**Cloud Services***
+**Cloud Services**
 ☁️ Firebase, Cloudinary, AWS (EC2, S3), Vercel, Netlify, Render
 
 **Other Tools**  
