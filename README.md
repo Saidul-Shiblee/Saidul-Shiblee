@@ -46,7 +46,7 @@
 ## 🌐 Projects
 1. **[Pledge and Grow](https://pledgeandgrow.com/):** Platform promoting sustainability through social and environmental pledges.    
 2. **[VieSalon](https://www.viesalon.com/):** Modern salon website with booking functionality.  
-3. **[KFZ.CLICK](https://kfz.click/):**Online vehicle registration service (Kfz-Zulassung) in Germany.
+3. **[KFZ.CLICK](https://kfz.click/):** Online vehicle registration service (Kfz-Zulassung) in Germany.
 4. **[AAdmirals](https://aadmirals.com/):** Responsive booking platform for a private transportation company.
 5. **[Keno Games Platform](https://inspiring-puffpuff-f7908f.netlify.app/):** Engaging Keno gaming platform with an intuitive design.
 
